@@ -1,3 +1,4 @@
 [debug] "not up to date. inChanged = true, force = false
 [debug] Updating ProjectRef(uri("file:/Users/youngjae/Developer/yjhnnn/scala-clustering/"), "scala-clustering")...
 [debug] Done updating ProjectRef(uri("file:/Users/youngjae/Developer/yjhnnn/scala-clustering/"), "scala-clustering")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
